@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #222;
+}
+.container {
+  gap: 10vh;
+  display: flex;
+  color: white;
+  margin-top: 10vh;
+  align-items: center;
+  flex-direction: column;
+}
+.wrapp {
+  display: flex;
+  font-size: 10vh;
+}
+.coin_img {
+  height: 80px;
+  margin-right: 4vh;
+}
+.energy_img {
+  height: 82px;
+  margin-right: 4vh;
+}
+.hamster_button {
+  height: 200px;
+
+  border-radius: 1000px;
+}
