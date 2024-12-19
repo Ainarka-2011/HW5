@@ -31,6 +31,5 @@ body {
 }
 .hamster_button {
   height: 200px;
-
-  border-radius: 1000px;
+  border-radius: 50vh;
 }
